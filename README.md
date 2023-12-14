@@ -1,6 +1,10 @@
+# CodenameNexus
 🤫 CodenameNexus is an account filled with secret games inside.
 
-🤓 CodenameNexus learns 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍 (JS)
-![JavaScript-logo](https://github.com/CodenameNexus/CodenameNexus/assets/153286786/05fc9a47-ca77-481c-b139-5f06563c1602)
+<h3 align="left">Languages:</h3>
+<a href="https://www.javascript.com" target="-blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
+
+<br>
+<!--
 
 
